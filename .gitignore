@@ -1,0 +1,11 @@
+pycache/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.log
+*.sqlite3
+*.egg-info/
+.env
+.venv
+spleeter-env/

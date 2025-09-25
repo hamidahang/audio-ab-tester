@@ -1,0 +1,7 @@
+pydub
+mutagen
+simpleaudio
+pillow
+matplotlib
+numpy
+
