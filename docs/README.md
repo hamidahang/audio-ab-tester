@@ -16,8 +16,8 @@ Supports WAV and MP3, shows waveform, and allows Play, Pause, and Stop.
 
 ## Screenshots
 
-![Main Window](icons/audio-ab-tester-1.png)  
-![Waveform View](icons/audio-ab-tester-2.png)  
+![Main Window](../icons/audio-ab-tester-1.png)  
+![Waveform View](../icons/audio-ab-tester-2.png)  
 
 ---
 
